@@ -49,8 +49,8 @@ const Index = () => {
               <Dumbbell className="w-5 h-5 text-primary" />
             </div>
             <div>
-              <h1 className="text-lg font-bold text-foreground">Home Workout</h1>
-              <p className="text-xs text-muted-foreground">7-Day Beginner Plan</p>
+              <h1 className="text-lg font-bold text-foreground">Pushkar Ji</h1>
+              <p className="text-xs text-muted-foreground">7-Day Home Workout Plan</p>
             </div>
           </div>
         </div>
